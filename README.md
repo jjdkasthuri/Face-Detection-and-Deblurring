@@ -23,9 +23,4 @@ To use this repository for your face detection and deblurring projects, follow t
 3. Adapt and run the code according to your specific requirements.
 
 ## Collaboration
-For collaboration inquiries, contact via [LinkedIn](https://www.linkedin.com/in/farneet-singh-6b155b208/).
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Licensed under the MIT License.
